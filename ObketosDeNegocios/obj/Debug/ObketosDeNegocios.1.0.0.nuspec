@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ObketosDeNegocios</id>
+    <version>1.0.0</version>
+    <authors>ObketosDeNegocios</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Devart.Data.MySql.EFCore" version="8.19.1944" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\bin\Debug\netcoreapp3.1\ObketosDeNegocios.dll" target="lib\netcoreapp3.1\ObketosDeNegocios.dll" />
+  </files>
+</package>

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\bin\Debug\netcoreapp3.1\ObketosDeNegocios.deps.json
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\bin\Debug\netcoreapp3.1\ObketosDeNegocios.dll
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\bin\Debug\netcoreapp3.1\ObketosDeNegocios.pdb
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.dll
+C:\Users\Usuario\source\repos\modelado_de_webapi\ObketosDeNegocios\obj\Debug\netcoreapp3.1\ObketosDeNegocios.pdb
